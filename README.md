@@ -2,7 +2,7 @@
 ![Screenshot 2024-07-20 112937](https://github.com/user-attachments/assets/6722c074-781f-4174-a5d6-e4f9a27a0991)
 
 The database that our group created is the database for the skincare store system. The following is an explanation of the main structure of the database;
-# Relationship between tables
+# Relationship Between Tables
 - Customers to orders : one-to-many (one customer can place multiple orders)<br/>
 - Order to OrderDetails : one-to-many (one order can have multiple order details)<br/>
 - Product to OrderDetails : one-to-many (one product can appear in many order details)<br/>
@@ -13,3 +13,9 @@ The database that our group created is the database for the skincare store syste
 - Customers to Addresses: one-to-many (one customer can have many addresses)<br/>
 - Orders to payments : one-to-many (one order can have many payments)<br/>
 - Suppliers to orders via ProductSuppliers : many-to-many (many suppliers can supply many products)<br/>
+
+#Team Members
+- Muhammad Fabian Nurdin  22.61.0233<br/>
+- Stephen Darma Putra N.	22.61.0238<br/>
+- Muhammad Dawam Amali	  22.61.0239<br/>
+- Nada Satya Maharani     22.61.0240<br/>
