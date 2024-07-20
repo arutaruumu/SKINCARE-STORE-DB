@@ -14,8 +14,8 @@ The database that our group created is the database for the skincare store syste
 - Orders to payments : one-to-many (one order can have many payments)<br/>
 - Suppliers to orders via ProductSuppliers : many-to-many (many suppliers can supply many products)<br/>
 
-#Team Members
-- Muhammad Fabian Nurdin  22.61.0233<br/>
-- Stephen Darma Putra N.	22.61.0238<br/>
-- Muhammad Dawam Amali	  22.61.0239<br/>
-- Nada Satya Maharani     22.61.0240<br/>
+# Team Members
+- Muhammad Fabian Nurdin &emsp; 22.61.0233<br/>
+- Stephen Darma Putra N. &emsp;&emsp; 22.61.0238<br/>
+- Muhammad Dawam Amali &emsp; 22.61.0239<br/>
+- Nada Satya Maharani &emsp;&emsp;&emsp;&ensp;22.61.0240<br/>
